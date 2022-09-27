@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/blocktree/litecoin-adapter/litecoin"
+
+	"github.com/Assetsadapter/litecoin-adapter/litecoin"
 )
 
 func main() {
